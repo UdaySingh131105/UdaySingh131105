@@ -26,19 +26,17 @@
 ## 🔭 Featured Projects  
 
 <div>
+  ✨ **Machine Learning & AI**  
+  - 🚀 **UrCMS** – A lightweight **Content Management System** for streamlined content handling.  
+  - 📑 **Synopsize** – A PDF summarizer that leverages NLP for extracting concise insights.  
+  - 🌽 **Maize Disease Predictor (Final Year Project)** – An ML model to predict crop diseases for farmers.  
+  - 🎶 **Symphony Scan** – An ML-powered song predictor that identifies and classifies music patterns.  
 
-✨ **Machine Learning & AI**  
-- 🚀 **UrCMS** – A lightweight **Content Management System** for streamlined content handling.  
-- 📑 **Synopsize** – A PDF summarizer that leverages NLP for extracting concise insights.  
-- 🌽 **Maize Disease Predictor (Final Year Project)** – An ML model to predict crop diseases for farmers.  
-- 🎶 **Symphony Scan** – An ML-powered song predictor that identifies and classifies music patterns.  
-
-🔗 **Blockchain & Web3**  
-- 🖼 **BasicNFT** – Simple NFT implementation showcasing ERC-721 fundamentals.  
-- 🌐 **RandomIPFS NFT** – NFT metadata stored on IPFS, integrating randomness for minting.  
-- 🎨 **Dynamic SVG NFT** – Fully on-chain NFTs with dynamic SVG rendering based on Chainlink Price Feeds.  
-- ⛓ **CCIP Bootcamp Project** – Cross-chain communication demo, leveraging Chainlink’s CCIP protocol.  
-
+  🔗 **Blockchain & Web3**  
+  - 🖼 **BasicNFT** – Simple NFT implementation showcasing ERC-721 fundamentals.  
+  - 🌐 **RandomIPFS NFT** – NFT metadata stored on IPFS, integrating randomness for minting.  
+  - 🎨 **Dynamic SVG NFT** – Fully on-chain NFTs with dynamic SVG rendering based on Chainlink Price Feeds.  
+  - ⛓ **CCIP Bootcamp Project** – Cross-chain communication demo, leveraging Chainlink’s CCIP protocol.  
 </div>
 
 
@@ -46,13 +44,11 @@
 ## 👀 I'm Interested In  
 
 <div>
-
-🌐 **Blockchain Protocols** & Smart Contracts  
-🤖 **Machine Learning Model Deployment**  
-⚡ **Scalable Architectures & Distributed Systems**  
-☁️ **Cloud-Native Applications**  
-🔗 **AI + Blockchain + Cloud Integration**  
-
+  🌐 **Blockchain Protocols** & Smart Contracts  
+  🤖 **Machine Learning Model Deployment**  
+  ⚡ **Scalable Architectures & Distributed Systems**  
+  ☁️ **Cloud-Native Applications**  
+  🔗 **AI + Blockchain + Cloud Integration**  
 </div>
 
 
@@ -60,36 +56,36 @@
 
 <div align="center">
 
-### 🌐 Frontend  
-<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-<img src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
-<img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC"> 
-<img src="https://img.shields.io/badge/-ThreeJs-05122A?style=for-the-badge&logo=threejs&logoColor=38B2AC"> 
+  ### 🌐 Frontend  
+  <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+  <img src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC"> 
+  <img src="https://img.shields.io/badge/-ThreeJs-05122A?style=for-the-badge&logo=threejs&logoColor=38B2AC"> 
 
-### ⚙️ Backend / Blockchain  
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933"> 
-<img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=express&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Solidity-05122A?style=for-the-badge&logo=solidity&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Hardhat-05122A?style=for-the-badge&logo=ethereum&logoColor=yellow"> 
-<img src="https://img.shields.io/badge/-Ethers.js-05122A?style=for-the-badge&logo=ethereum&logoColor=blue"> 
+  ### ⚙️ Backend / Blockchain  
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933"> 
+  <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=express&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Solidity-05122A?style=for-the-badge&logo=solidity&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Hardhat-05122A?style=for-the-badge&logo=ethereum&logoColor=yellow"> 
+  <img src="https://img.shields.io/badge/-Ethers.js-05122A?style=for-the-badge&logo=ethereum&logoColor=blue"> 
 
-### 🤖 AI/ML  
-<img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=FFD43B"> 
-<img src="https://img.shields.io/badge/-scikit--learn-05122A?style=for-the-badge&logo=scikitlearn&logoColor=orange"> 
-<img src="https://img.shields.io/badge/-YOLOv8-05122A?style=for-the-badge&logo=opencv&logoColor=white"> 
-<img src="https://img.shields.io/badge/-NLP_(LayoutLMv2_+_RAG)-05122A?style=for-the-badge&logo=huggingface&logoColor=yellow"> 
+  ### 🤖 AI/ML  
+  <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=FFD43B"> 
+  <img src="https://img.shields.io/badge/-scikit--learn-05122A?style=for-the-badge&logo=scikitlearn&logoColor=orange"> 
+  <img src="https://img.shields.io/badge/-YOLOv8-05122A?style=for-the-badge&logo=opencv&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-NLP_(LayoutLMv2_+_RAG)-05122A?style=for-the-badge&logo=huggingface&logoColor=yellow"> 
 
-### ☁️ Cloud / DevOps  
-<img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazonaws&logoColor=FF9900"> 
-<img src="https://img.shields.io/badge/-Vercel-05122A?style=for-the-badge&logo=vercel&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker&logoColor=2496ED"> 
+  ### ☁️ Cloud / DevOps  
+  <img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazonaws&logoColor=FF9900"> 
+  <img src="https://img.shields.io/badge/-Vercel-05122A?style=for-the-badge&logo=vercel&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker&logoColor=2496ED"> 
 
-### 💬 Languages  
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
-<img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=3178C6"> 
-<img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=cplusplus&logoColor=00599C"> 
-<img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=red"> 
-<img src="https://img.shields.io/badge/-Solidity-05122A?style=for-the-badge&logo=solidity&logoColor=red"> 
+  ### 💬 Languages  
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=3178C6"> 
+  <img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=cplusplus&logoColor=00599C"> 
+  <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=red"> 
+  <img src="https://img.shields.io/badge/-Solidity-05122A?style=for-the-badge&logo=solidity&logoColor=red"> 
 
 </div>
 
